@@ -5,10 +5,10 @@ The project invoves a custom made PCB, made in Ki-Cad. It's powered by an Arduin
 
 ## How it works
 Gif of first test, irl.  
-![gif of it in action](https://github.com/dumheter/fa-18c-ddi/blob/main/inaction.gif)
+![gif of it in action](https://github.com/dumheter/fa-18c-ddi/blob/main/inaction.gif)  
 Ki-cad pcb drawing.  
-![pcd kicad drawing](https://github.com/dumheter/fa-18c-ddi/blob/main/pcb_kicad.png]
+![pcd kicad drawing](https://github.com/dumheter/fa-18c-ddi/blob/main/pcb_kicad.png)  
 Finished pcb, next to my flight stick.  
-![finished pcb](https://github.com/dumheter/fa-18c-ddi/blob/main/pcb_irl.jgp]
+![finished pcb](https://github.com/dumheter/fa-18c-ddi/blob/main/pcb_irl.jgp)  
 How the cockpit look in (dcs) game.  
-![cockpit](https://github.com/dumheter/fa-18c-ddi/blob/main/cockpit.jgp]
+![cockpit](https://github.com/dumheter/fa-18c-ddi/blob/main/cockpit.jgp)
