@@ -9,6 +9,11 @@ Instruction for how to install the board to Arduino IDE on [Sparkfun's github pa
 ## ArduinoJoystickLibrary
 To utilize the Atmega32u4, I use the [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary). The zip can also be found in this folder.
 
+## FlightSimMfd
+This is a modified version of spark fun's hardware package. I've changed the usb package name from "SparkFun Pro Micro" to "MFD". Quoting from [source](https://github.com/MHeironimus/ArduinoJoystickLibrary/issues/14): "If your device, is the first device connected to this computer with that vid / pid combination, it will be displayed with your usb_product name.".  
+  
+Install in "C:\Users\<COMPUTERNAME>\AppData\Local\Arduino15\packages".
+
 ## Tips
 You can use `joy.cpl` to get the pre-installed windows joystick tester program, to see your code in action.  
   
